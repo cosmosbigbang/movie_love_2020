@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cosmosbigbang/movie_love_2020/static/css/main.85a44401.chunk.css",
+    "main.js": "/cosmosbigbang/movie_love_2020/static/js/main.376807c6.chunk.js",
+    "main.js.map": "/cosmosbigbang/movie_love_2020/static/js/main.376807c6.chunk.js.map",
+    "runtime-main.js": "/cosmosbigbang/movie_love_2020/static/js/runtime-main.6f9fa561.js",
+    "runtime-main.js.map": "/cosmosbigbang/movie_love_2020/static/js/runtime-main.6f9fa561.js.map",
+    "static/js/2.898c66c6.chunk.js": "/cosmosbigbang/movie_love_2020/static/js/2.898c66c6.chunk.js",
+    "static/js/2.898c66c6.chunk.js.map": "/cosmosbigbang/movie_love_2020/static/js/2.898c66c6.chunk.js.map",
+    "index.html": "/cosmosbigbang/movie_love_2020/index.html",
+    "precache-manifest.69cbc2653ddf1d26c40efa85ed1a2dec.js": "/cosmosbigbang/movie_love_2020/precache-manifest.69cbc2653ddf1d26c40efa85ed1a2dec.js",
+    "service-worker.js": "/cosmosbigbang/movie_love_2020/service-worker.js",
+    "static/css/main.85a44401.chunk.css.map": "/cosmosbigbang/movie_love_2020/static/css/main.85a44401.chunk.css.map",
+    "static/js/2.898c66c6.chunk.js.LICENSE.txt": "/cosmosbigbang/movie_love_2020/static/js/2.898c66c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f9fa561.js",
+    "static/js/2.898c66c6.chunk.js",
+    "static/css/main.85a44401.chunk.css",
+    "static/js/main.376807c6.chunk.js"
+  ]
+}
